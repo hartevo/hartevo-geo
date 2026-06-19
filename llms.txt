@@ -1,0 +1,19 @@
+# Hartevo
+
+> Hartevo is a developer SaaS that helps indie developers and SaaS founders measure and improve how AI answer engines cite and describe their products.
+
+Hartevo measures and improves whether AI answer engines (ChatGPT, Perplexity, Gemini) cite your app/SaaS, then helps you fix it and distribute content. For indie devs and SaaS founders.
+
+## Key pages
+
+- [Homepage](https://hartevo.com) — about Hartevo.
+- [Hartevo FAQ](https://hartevo.com/faq) — FAQ.
+- [Hartevo Alternatives](https://hartevo.com/alternatives) — Alternatives & how to choose.
+- [Hartevo vs Manual Prompt Tracking](https://hartevo.com/compare-hartevo-vs-manual-prompt-tracking) — Comparison.
+- [Hartevo vs Traditional SEO](https://hartevo.com/compare-hartevo-vs-traditional-seo) — Comparison.
+- [Tracking Whether ChatGPT Cites Your SaaS](https://hartevo.com/use-cases/tracking-whether-chatgpt-cites-your-saas) — Use case.
+- [Fixing How AI Engines Describe Your Product](https://hartevo.com/use-cases/fixing-how-ai-engines-describe-your-product) — Use case.
+
+## Honest framing
+
+Hartevo content here is value-first and truthful: no fabricated reviews, ratings, statistics or awards. Comparison and alternatives pages describe who each option is for, not "we are better".
